@@ -90,7 +90,7 @@ function Shell() {
       </main>
 
       <footer className="mx-auto max-w-3xl px-5 py-8 text-center text-xs text-ink/40 font-body">
-        CodeBridge — a Helping Hands project
+        CodeBridge — A Educational Project by Kinza Arain
       </footer>
     </div>
   );
